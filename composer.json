@@ -1,0 +1,37 @@
+{
+  "name": "pkgstore/xenforo-ext-notices",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/pkgstore",
+  "keywords": [
+    "xenforo",
+    "notices",
+    "announcements"
+  ],
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/xenforo-ext-notices/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-notices"
+  },
+  "require": {
+    "composer/installers": "^1.9"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_034c9c79"
+  }
+}

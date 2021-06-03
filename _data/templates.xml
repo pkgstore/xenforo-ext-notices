@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public"
+            title="ext_034c9c79_quick_reply_view"
+            version_id="1000070"
+            version_string="1.0.0"><![CDATA[<xf:if is="$xf.options.ext_034c9c79_quickReply">
+  <xf:if is="$xf.options.ext_034c9c79_quickReplyIcon">
+    <xf:set var="$ext_034c9c79_quickReplyIcon" value="blockMessage--iconic" />
+  <xf:else />
+    <xf:set var="$ext_034c9c79_quickReplyIcon" value="" />
+  </xf:if>
+
+  <div class="blockMessage blockMessage--{$xf.options.ext_034c9c79_quickReplyType} {$ext_034c9c79_quickReplySmall} {$ext_034c9c79_quickReplyIcon}">
+    {$xf.options.ext_034c9c79_quickReplyMessage}
+  </div>
+</xf:if>]]></template>
+</templates>

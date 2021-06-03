@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.ext_034c9c79_quickReply" version_id="1000070" version_string="1.0.0"><![CDATA[Над быстрым ответом]]></phrase>
+  <phrase title="option_explain.ext_034c9c79_quickReply" version_id="1000070" version_string="1.0.0"><![CDATA[Включение / отключение объявления над быстрым ответом.]]></phrase>
+  <phrase title="option.ext_034c9c79_quickReplyMessage" version_id="1000070" version_string="1.0.0"><![CDATA[Текст объявления]]></phrase>
+  <phrase title="option_explain.ext_034c9c79_quickReplyMessage" version_id="1000070" version_string="1.0.0"><![CDATA[Введите текст объявления.]]></phrase>
+  <phrase title="option.ext_034c9c79_quickReplyType" version_id="1000070" version_string="1.0.0"><![CDATA[Тип объявления]]></phrase>
+  <phrase title="option_explain.ext_034c9c79_quickReplyType" version_id="1000070" version_string="1.0.0"><![CDATA[Укажите тип объявления.]]></phrase>
+  <phrase title="option.ext_034c9c79_quickReplyIcon" version_id="1000070" version_string="1.0.0"><![CDATA[Иконка]]></phrase>
+  <phrase title="option_explain.ext_034c9c79_quickReplyIcon" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_group.ext_034c9c79" version_id="1000070" version_string="1.0.0"><![CDATA[Notices]]></phrase>
+  <phrase title="option_group_description.ext_034c9c79" version_id="1000070" version_string="1.0.0"><![CDATA[Система объявлений.]]></phrase>
+</phrases>
