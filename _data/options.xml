@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="ext_034c9c79_quickReply" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_034c9c79" display_order="1"/>
+  </option>
+  <option option_id="ext_034c9c79_quickReplyMessage" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="ext_034c9c79" display_order="1"/>
+  </option>
+  <option option_id="ext_034c9c79_quickReplyType" edit_format="select" data_type="string">
+    <default_value>important</default_value>
+    <edit_format_params>success=Success
+important=Important
+error=Error</edit_format_params>
+    <relation group_id="ext_034c9c79" display_order="1"/>
+  </option>
+  <option option_id="ext_034c9c79_quickReplyIcon" edit_format="onoff" data_type="boolean">
+    <default_value>0</default_value>
+    <relation group_id="ext_034c9c79" display_order="1"/>
+  </option>
+</options>

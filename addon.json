@@ -1,0 +1,21 @@
+{
+  "legacy_addon_id": "",
+  "title": "Notices",
+  "description": "Custom announcement system. (ext_034c9c79)",
+  "version_id": 1000070,
+  "version_string": "1.0.0",
+  "dev": "iHub TO",
+  "dev_url": "https://ihub.to/",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-notices/issues",
+  "require": {
+    "XF": [
+      2010070,
+      "XenForo 2.1.0+"
+    ],
+    "php": [
+      "7.3.0",
+      "PHP 7.3.0+"
+    ]
+  },
+  "icon": "fa-exclamation-triangle"
+}
